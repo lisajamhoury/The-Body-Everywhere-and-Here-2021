@@ -1,6 +1,6 @@
 ## Course Description
 
-Today’s internet, made up of mostly text documents and two-dimensional images and videos, is the result of historical limitations in bandwidth, graphics processing and input devices. These limitations have made the internet a place where the mind goes, but the body cannot follow. Recent advances in motion capture devices, graphics processing, machine learning, bandwidth and browsers, however, are paving the way for the body to find its place online. This course will explore embodied interactions in the browser and across networks. Specifically we’ll explore TensorFlow.js models like PoseNet and BodyPix, and Microsoft Kinect in p5.js and Three.js. Assignments will consider designing engaging embodied experiences for individual and social interactions online. Experience with Node, HTML and JavaScript is helpful but not required. ICM level programming experience is required.
+Today’s internet, made up of mostly text documents and two-dimensional images and videos, is the result of historical limitations in bandwidth, graphics processing and input devices. These limitations have made the internet a place where the mind goes, but the body cannot follow. Recent advances in motion capture devices, graphics processing, machine learning, bandwidth and browsers, however, are paving the way for the body to find its place online. This course will explore embodied interactions in the browser and across networks. Specifically we’ll explore TensorFlow.js models like PoseNet and Hand Pose, and Microsoft Kinect in p5.js and Three.js. Assignments will consider designing engaging embodied experiences for individual and social interactions online. Experience with Node, HTML and JavaScript is helpful but not required. ICM level programming experience is required.
 
 ## Evaluation and Policies
 
@@ -30,20 +30,14 @@ If you are uncomfortable with any of the class proceedings, you are always welco
 
 ## Mode of Instruction
 
-This course will be offered entirely online. We will meet on Zoom at our regularly scheduled time to share homework and to discuss the week's topics. About an hour of course time will be devoted to technical topics. We'll discuss as a class how to best present the technical lecture, but I'm leaning toward doing the technical lecture live and making a recording of it available asynchronously. This way, students who would like to watch live and ask questions have that opportunity, but students who prefer to have a shorter class time are welcome to watch later.
-
-Please feel free to reach out if you have any questions. These are unprecedented times, and I'm happy to discuss how I can make the class work for each of you.
-
-## Class Recordings
-
-All class lectures will be recorded to accommodate students who miss class. Recordings will not be shared publicly and will not be available after the semester ends. Please reach out to me if you do not feel comfortable being recorded.
+This course will be offered entirely in person. If you need special accomodations please reach out. 
 
 ## Lisa's Contact
 
 lisa.jamhoury@nyu.edu
 
 [Office hours link](https://calendar.google.com/calendar/selfsched?sstoken=UUlFdHBUdGtNZlpEfGRlZmF1bHR8NGM3YjcyZWMxYWNkZDc1M2YxMTE5MjFjNWU5ODVkMjY)<br>
-Wed 10am—12:30pm ET
+Tuesday 9:15am—11:15am ET
 
 ## Support
 
@@ -53,63 +47,55 @@ If you find yourself struggling, remember that you have many forms of support th
 
 Assignments are due **before** class each week. I will not give credit for assignments that are turned in late. Keeping in mind that I want you to succeed, and that the material can sometimes be challenging, **I absolutely prefer tentative work with good documentation to work that is turned in late**.
 
-[Use this form to turn in your homework assignments](https://forms.gle/uyeKxox99DsHX88w8).
+[Use this form to turn in your homework assignments](https://forms.gle/w6D7AfcFkZhn2NUW9).
 
-[Here's the spreadsheet with everyone's responses](https://docs.google.com/spreadsheets/d/104GQ4UCZBFAeqXm1Vev7fK8VfNknCsOuDzvl1WN6sMc/edit?usp=sharing).
-
-## Homework Partner Program
-
-Every week you will have a partner to work on homework with. You **must** user test with each other! From there, it is up to you and your partner how you will engage. You can work together on the assignment. You can work independently, then user test your work. You can work independently, but pair program throughout the week.
-
-My un-intelligent program will pair you in the first four weeks. You are welcome to switch partners as long as you work with different partners throughout the first four weeks. You will pick your own partner for the final assignment.
+[Here's the spreadsheet with everyone's responses](https://docs.google.com/spreadsheets/d/1vJynGu0UdHP__KTuiy1dD4giP1ig-fKKR_iOQnQpdzg/edit?usp=sharing).
 
 ## Final Assignment
 
-The final two weeks of class will be devoted to final projects. Use this assignment to delve more deeply into the subject matter in one piece of work. You can decide with your partner whether you prefer to work independently or as a pair.
+The final two weeks of class will be devoted to final projects. Use this assignment to delve more deeply into the subject matter in one piece of work. You are welcome to work in pairs or groups. 
 
-This will comprise 20% of your grade. You will not be graded on whether it works on not, you will be graded on your process and documentation. So, please! make sure that you leave time to document your project well!
+This will comprise 20% of your grade. You will not be graded on whether it works on not, you will be graded on your process and documentation. So, please make sure that you leave time to document your project well!
 
 ## Content Overview
 
-### Week One: Sept 9, 2020
+### Week One: Nov 2, 2021
 
 - Topic: The Body & The Computer
 - Technical: The Pixel Array — Low-level computer vision in Javascript
 
-### Week Two: Sept 14, 2020
+### Week Two: Nov 9, 2021
 
 - Topic: Presence in virtual spaces
-- Technical: Live Web Redux, WebRTC
+- Technical: TF.js — Pose detection in the browser
 
-### Week Three: Sept 21, 2020
+### Week Three: Nov 16, 2021
 
 - Topic: Digital Forms & Online Identities
-- Guest speaker: [LaJuné McMillian](https://laja.me/)
-- Technical: Posenet over WebRTC Peers
-
-### Week Four: Sept 28, 2020
-
-- Topic: Dimensions & Depth
 - Technical: Kinect in JS (via Kinectron)
 
-### Week Five: Oct 5, 2020
+### Week Four: Nov 23, 2021
 
-- Topic: "Social Networks"
-- Technical: WebRTC Peer mesh
+- Topic: "Social" Networks, two-way
+- Technical: Pose detection over peer connections
 
-### Week Six: Oct 12, 2020
+### Week Five: Nov 30, 2021
+
+- Topic: "Social" Networks, multiples 
+- Technical: Two Kinects, Peer Mesh 
+
+### Week Six: Dec 7, 2021
 
 - Topic: Inclusive Design
-- Guest Speaker: [Lauren Race](https://www.laurenrace.com/)
 - Technical: User testing / Workshopping final projects
 
-### Week Seven: Oct 19, 2020
+### Week Seven: Dec 14, 2021
 
-- Topic: Final Presentations!!!
+- Topic: Final Presentations!
 
 ## Week-By-Week
 
-## Week 1 — Sept 9, 2020
+## Week 1 — Nov 2, 2021
 
 ### Topic: The Body & The Computer
 
@@ -119,19 +105,13 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Notes & Examples
 
-- [Miro Board](https://miro.com/app/board/o9J_kmBfelk=/)
-- Class Example 1: Webcam Frame Difference | [Github](/examples/week1/example1_framediff) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/CS5vnqLly)
-- Class Example 2: Webcam BG Subtraction | [Github](/examples/week1/example2_bgsub) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/61050hgvb)
+- To come 
 
 ### Class Links
 
 - [Movement by Etienne-Jules Marey](https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph005266199)
 - [The Making of Brilliance (1985)](https://www.youtube.com/watch?v=HZY5_ZzRdbk)
 - [Kyle McDonald JS CV Examples](https://kylemcdonald.github.io/cv-examples/) | Some more CV examples Stick to low and medium level for week 1 assignment
-- [Why can't I use = to copy an array in JS](https://www.samanthaming.com/tidbits/35-es6-way-to-clone-an-array/#why-can-t-i-use-to-copy-an-array)
-- [Coding Train 16.1: let vs var - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=q8SHaDQdul0)
-- [Coding Train 16.2: const - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=2iLVFyYwyRA)
-- [budo](https://github.com/mattdesl/budo)
 
 ### Tech Refs
 
@@ -143,104 +123,43 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Assignments
 
-- Create a sketch using the pixel array that encourages the user to use their body in some way. User test with your partner. Focus on what it _feels_ like, not (or in addition to) what it looks like.
-- Create at least two variations on the sketch that encourage the user to interact with your sketch in a specific way.
+- Create a sketch using the pixel array that encourages the participant to use their body in some way. Consider what it _feels_ like, not (or in addition to) what it looks like. See if you can find someone to test it with you. How does it _feel_ to them?
 - Consider: Moving away from your computer to test with the full body or using an external webcam placed away from you to capture your full body.
-- Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
-- Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
+- Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/SAqNM8BLU2Rpxkzu7).
+- Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1mHmUlzDTcd1yItUjNCInyIMZNkhJOCe1MrKNRjGzUoY/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
 ### Read / Watch
 
 - [Artificial Reality by Myron Krueger, pages 91-99](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/blob/master/readings/artificial_reality_5.pdf)
-- [Myron Krueger - Videoplace, Responsive Environment, 1972-1990s](https://www.youtube.com/watch?v=dmmxVA5xhuo)
-- [Presence in Virtual Space - Rebecca Allen w/ Ghislaine Boddington](https://www.youtube.com/watch?v=6aFFslxQbrs)
+- [Closer : performance, technologies, phenomenology, pages 92-98](/readings/closer_2.pdf)
 
-## Week 2 — Sept 14, 2020
+## Week 2 — Nov 9, 2021
 
 ### Topic: Presence in virtual spaces
 
 - What is presence? In virtual space?
-- Live Web Redux, WebRTC, peer connections 
+- TF.js — Pose detection in the browser
 
 ### Class Notes
 
-- [Whiteboard Drawing](/whiteboard/class2_webrtc.png)
-- Class Example 1 — [Mouse over webRTC Peer Connection](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples)
-
 ### Class Links
-
-- [Coding Train 15.1: What is Node.js?](https://youtu.be/RF5_MPSNAtU)
-- [Coding Train 15.2: What is NPM?](https://youtu.be/s70-Vsud9Vk)
-- [Coding Train 8.2: HTTP Server with Express](https://www.youtube.com/watch?v=6oiabY1xpBo)
-- [Coding Train: Git and GitHub for Poets](https://thecodingtrain.com/beginners/git-and-github/index.html)
-- [WebRTC for the Curious: What, Why and How](https://webrtcforthecurious.com/docs/01-what-why-and-how/)
-- [ngrok Documentation](https://ngrok.com/docs#getting-started-expose)
 
 ### Assignments
 
-- Create a two-player sketch using the mouse over webRTC peer connection that encourages the users to be co-present in some way. User test with your partner. Focus on what it _feels_ like, not (or in addition to) what it looks like.
-- Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
-- Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name under week 2. Keep it to one sentence! But feel free to add commentary or context in a comment.
-- Please be on time for our upcoming class! [Lajune McMillian](https://laja.me/) is speaking at the beginning of our next class. Here's [an interview](https://www.berlinartlink.com/2020/08/21/the-black-movement-project-an-interview-with-lajune-mcmillian/) she recently did if you are interested in learning about her work before class.
-
-### Read / Watch
-
-- [Closer : performance, technologies, phenomenology, pages 92-98](/readings/closer_2.pdf)
-- [Laurie Anderson & Mohammed el Gharani: Habeas Corpus](https://www.youtube.com/watch?v=kUKLA-W0nDM)
-
-## Week 3 — Sept 21, 2020
-
-### Topic: Digital Forms & Online Identities
-
-- Which came first, the form or the function?
-- Posenet over WebRTC Peers, Mediapipe hand and face models 
-
-### Class Notes
-
-- [Miro Board](https://miro.com/app/board/o9J_klKbIPY=/)
-- Examples Repository — [WebRTC-Simple-Peer-Examples](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples)
-- Class Example 1 — Posenet Skeleton | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example2_posenet_skeleton_mirror) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/sC31eCyOl)
-- Class Example 2 — Posenet Skeleton No Mirroring | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example3_posenet_skeleton_no_mirror) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/vEWxnW8bF)
-- Class Example 3 — Posenet Curves Simple | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example4_posenet_curves_simple) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/SetTJ9Sf3)
-- Class Example 4 — Posenet Curves Combined | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example5_posenet_curves_combine) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/xnbywvdoc)
-- Async Class Example — Posenet Intro | [Video](https://nyu.zoom.us/rec/play/fEkBlIT4bR_PrPe7OdG8kfmsc4bYLNHHArKMYKEJl5t3y9uswlF2I0jAxAePukQdMapGblyJO8yWLGk.5ismXTXDKAxcR64I?continueMode=true) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/ZjFypJGTg)
-
-### Class Links
-
-- [LaJuné McMillian](https://laja.me/)
-- [Posenet Documentation](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
-- [ml5js.org](https://ml5js.org/)
-- Coding Train ml5.js: Pose Estimation with PoseNet: [7.1](https://thecodingtrain.com/learning/ml5/7.1-posenet.html) | [7.2](https://thecodingtrain.com/learning/ml5/7.2-pose-classifier.html) | [7.3](https://thecodingtrain.com/learning/ml5/7.3-pose-regression.html)
-- [Pose Animator: SVG Characters with Posenet](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
-- [Google Mediapipe](https://github.com/google/mediapipe)
-- [Lingdong Huang Mediapipe Demos](https://github.com/LingDong-/handpose-facemesh-demos)
-- [clmtrackr](https://github.com/auduno/clmtrackr) | [Live example from Kyle McDonald](https://kylemcdonald.github.io/cv-examples/FaceTracking/)
-- [Enabling developer mode on Windows 10](https://mywindowshub.com/how-to-enable-developer-mode-in-your-windows-10-computer/)
-
-### Assignments
-
-- Create a two-user sketch that:
-  - Creates a live connection between two users
-  - Uses one or more machine learning models to detect all or part of the users’ bodies.
-  - Includes at least one interaction between the two users.
-  - Takes into account how the users’ forms inform the experience.
-- User test with your partner. Focus on what it feels like, not (or in addition to) what it looks like.
-- Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
-- Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
+- Create a sketch using a machine learning model availble in the browser (like PoseNet or HandPose) that encourages the participant to interact with some part of their body and at least one other object on the screen. As you work consider how noise and latency are affecting your sketch. Work to either mitigate or utilize them.
+- Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/5XqusV3qTkodPQrRA).
+- Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1mHmUlzDTcd1yItUjNCInyIMZNkhJOCe1MrKNRjGzUoY/edit?usp=sharing) with your name under week 2. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
 ### Read / Watch
 
 - [Phenomenology of perception by Maurice Merleau-Ponty](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/blob/master/readings/phenomenology_of_perception_2.pdf), pages 92-94 (through "what sees and touches")
 - [Art Talk: An Interview with Nick Cave at the Institute of Contemporary Art/Boston](https://www.youtube.com/watch?v=ndvl8L_a72A)
-- [Forms, Quayola and Memo Akten](http://www.memo.tv/works/forms/)
-- [Space between bodies, Tyler Yin](https://vimeo.com/449493919)
-- Forms inspiration by Zach Lieberman | [1](https://www.instagram.com/p/CDpJ7Osj3wl/), [2](https://www.instagram.com/p/CA5qv9bjjlV/), [3](https://www.instagram.com/p/CEG9k8_j5pq/), [4](https://www.instagram.com/p/B3PQwJKjiun/)
 
-## Week 4 — Sept 28, 2020
+## Week 3 — Nov 16, 2021
 
-### Topic: Dimensions & Depth
+### Topic: Digital Forms & Online Identities
 
-- How does dimensionality impact experience? 
+- Which came first, the form or the function?
 - Kinect in JS (via Kinectron)
 
 ### Class Notes
@@ -280,70 +199,74 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Assignments
 
-- Continue your exploration of forms and how they impact interaction. How does your digital form impact your experience online? You may continue to develop your idea from the previous week, or you can start a new project.
-- Consider bringing your 2D sketch from last week into 3D. Is anything gained or lost in the transition between dimensions?
-- Work alone or with a partner. Your choice!
-- User test with at least one person. (Partner, roommate, family member...)
-- Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
-- Catch up on reading! Make sure you have entered one sentence that you found interesting or provocative from each of the previous three readings in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
+- Create a sketch that uses data from the Kinect to represent a participant's body in some form. Some ideas: 
+  - Rewrite your sketch from last week to use the Kinect, then evolve it in some way. 
+  - Give participants agency over their form in some way. 
+  - Write a sketch in 3D and consider how the additional dimension alters the experience.  
+- Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/5XqusV3qTkodPQrRA).
+- Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1mHmUlzDTcd1yItUjNCInyIMZNkhJOCe1MrKNRjGzUoY/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
 ### Read / Watch
+- [Kit Galloway and Sherrie Rabinowitz (February 10, 1988)](https://www.youtube.com/watch?v=fh02Hg6NWaQ) — Up until the Q&A
 
-- No additional reading this week! Catch up on previous readings.
-- [Treachery of Sanctuary](https://vimeo.com/39515812)
-- [Kinect flow dance](https://www.youtube.com/watch?v=ISKV1BeB3pM)
-- [Firewall](https://vimeo.com/54882144)
-- [Mocap2Web](http://www.memo.tv/works/mocap2web/)
+## Week 4 — Nov 23, 2021
 
-## Week 5 — Oct 5, 2020
+### Topic: "Social" Networks, two-way
 
-### Topic: "Social Networks"
-
-- Can we really be social over networks? 
-- WebRTC Peer mesh with Posenet
+- What do embodied social networks look and feel like? 
+- Pose detection over peer connections 
 
 ### Class Notes
 
-- Class Example 1 — Peer to Peer Multiple Mouse | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example6_mouse_multiple) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/8q0CCylIg)
-- Class Example 2 — Peer to Peer Multiple Posenet | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example7_posenet_multiple) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/SrA0A8nXD)
-- Class Example 3 — Peer to Peer Posenet Handsup | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example8_posenet_multiple_handsup) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/1KfkbQfNE)
-- Class Example 4 — Peer to Peer Frame Difference | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example9_frameDiff) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/K5CnT1P6F)
-- Class Example 5 — Two Kinects, One Browser | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/BJBbQ7uMf)
+### Class Links
+
+### Assignments
+
+- Create a two-user sketch that:
+  - Creates a live connection between two participants
+  - Uses one or more machine learning models to detect all or part of their bodies.
+  - Includes at least one interaction between the two people.
+  - Takes into account how their forms inform the experience. 
+- Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/5XqusV3qTkodPQrRA).
+- Catch up on reading! Make sure you have entered one sentence that you found interesting or provocative from each of the previous three readings in [this Google Doc](https://docs.google.com/document/d/1mHmUlzDTcd1yItUjNCInyIMZNkhJOCe1MrKNRjGzUoY/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
+
+### Read / Watch
+
+- Optional [Here/There: Telepresence, Touch, and Art at the Interface (Introduction) by Kris Paulsen](https://www.academia.edu/27070858/Here_There_Telepresence_Touch_and_Art_at_the_Interface_Introduction_https_mitpress_mit_edu_books_herethere) 
+
+## Week 5 — Nov 30, 2021
+
+### Topic: "Social" Networks, multiples
+
+- What do embodied social networks look and feel like? 
+- WebRTC Peer mesh with Posenet, Kinectron doubled
+
+### Class Notes
 
 ### Class Links
-- [2.6: createGraphics() - p5.js Tutorial](https://www.youtube.com/watch?v=TaluaAD9MKA)
-- [HTMLCanvasElement.toDataURL()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toDataURL)
 
 ### Assignments
 
 #### Final Assignment 
 - Create something that reflects on the ideas we've discussed in class so far this semester. You can continue to work on one of your previous assignments, or create something entirely new. Work alone or with a partner. Your choice!
-- For next week (week 6): Create a prototype or documentation of a prototype that you can use for class discussion. We will do breakout “user testing” next week to give you time to get feedback on your ideas/prototypes. Post your idea and your progress on your blog. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
-- For final week (week 7): Prepare a final presentation about your project. Each person will have 7 minutes to present. Live demos are always welcome :)  Post your final documentation on your blog. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
+- For next week (week 6): Create a prototype or documentation of a prototype that you can use for class discussion. We will do breakout “participant testing” next week to give you time to get feedback on your ideas/prototypes. Post your idea and your progress on your blog. Submit it in the [Homework form](https://forms.gle/5XqusV3qTkodPQrRA).
+- For final week (week 7): Prepare a final presentation about your project. Each person will have 7 minutes to present. Live demos are always welcome :)  Post your final documentation on your blog. Submit it in the [Homework form](https://forms.gle/5XqusV3qTkodPQrRA).
 
 #### Reading 
-- Read the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
+- Read the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1mHmUlzDTcd1yItUjNCInyIMZNkhJOCe1MrKNRjGzUoY/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
 ### Read / Watch
 
 - [The End of Average, Todd Rose, pages 1-9](/readings/end_of_avg_intro.pdf)
-- [Me and My Shadows](http://www.bodydataspace.net/projects/meandmyshadow/)
-- [DigitalDancePary](https://danielkorssen.com/project/digital-dance-party)
 
-
-## Week 6 — Oct 12, 2020
+## Week 6 — Dec 7, 2021
 
 ### Topic: Production, Inclusive Design
 
-- Moving from prototype to production: prototyping, user testing, inclusion
+- Moving from prototype to production: prototyping, testing, inclusion
 - Coding with recorded data
 
 ### Class Notes
-
-- Async Class Example 1 — Recording and Replaying Data with Mouse | [Video](https://nyu.zoom.us/rec/share/wGx1iARVcLrgeOC_kFKTYLikcUqyN_RFEOE6RrpQvv8KSkqjWpyD8txPSi6pJIVk.uYYBXwNwzZ331Qzb) ( + [Addendum](https://nyu.zoom.us/rec/share/6rlQTm_34L59gM0wqGOLR3jSPA65GxYz_2fF0B6yFucFe7-WU04Y1_hMeubRu1Wh.Cy_tmmvqXY-Tfo8Q) ) | [Github](/examples/week6/ex1_record_mouse) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/-w2UgJzNX)
-- Async Class Example 2 — Recording and Replaying Data with Posenet | [Github](/examples/week6/ex2_posenet_recorded) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/fjJLDl4UM)
-- Async Class Example 3 — Recording and Replaying Data with Mouse Over Peers | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example10_record_mouse)
-- Async Class Example 4 — Three.js Basics with Recorded Kinectron Skeleton | [Video](https://nyu.zoom.us/rec/share/1dvUV4MGan6_loOGNVqCyUbE-tXmCQ3daRs82Piz66S9SKMrOvMkWBZZp3iP4E9V.2HY3vkPX-daTq0-C) | [Github](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/tree/master/examples/week6/ex4_3js_lights_kinect) | [Glitch](https://glitch.com/~kindhearted-jolly-abacus)
 
 ### Prototyping / Playtesting Questions
 
@@ -354,5 +277,5 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 #### Final Assignment 
 - Create something that reflects on the ideas we've discussed in class so far this semester. You can continue to work on one of your previous assignments, or create something entirely new. Work alone or with a partner. Your choice!
-- For next week (week 6): Create a prototype or documentation of a prototype that you can use for class discussion. We will do breakout “user testing” next week to give you time to get feedback on your ideas/prototypes. Post your idea and your progress on your blog. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
-- For final week (week 7): Prepare a final presentation about your project. Each person will have 7 minutes to present. Live demos are always welcome :)  Post your final documentation on your blog. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
+- For next week (week 6): Create a prototype or documentation of a prototype that you can use for class discussion. We will do breakout “user testing” next week to give you time to get feedback on your ideas/prototypes. Post your idea and your progress on your blog. Submit it in the [Homework form](https://forms.gle/5XqusV3qTkodPQrRA).
+- For final week (week 7): Prepare a final presentation about your project. Each person will have 7 minutes to present. Live demos are always welcome :)  Post your final documentation on your blog. Submit it in the [Homework form](https://forms.gle/5XqusV3qTkodPQrRA).
