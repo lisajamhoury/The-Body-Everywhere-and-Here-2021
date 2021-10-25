@@ -51,6 +51,12 @@ Assignments are due **before** class each week. I will not give credit for assig
 
 [Here's the spreadsheet with everyone's responses](https://docs.google.com/spreadsheets/d/1vJynGu0UdHP__KTuiy1dD4giP1ig-fKKR_iOQnQpdzg/edit?usp=sharing).
 
+## Homework Roulette
+
+Each week an unbiased algorithm will choose 4 students to present their homework to class. The students presenting will be listed on the board at the start of class so they can take a few minutes to prepare before class starts. This is an _informal_ five-minute presentation of documentation, code, questions and class feedback. There are 16 students in class, so we'll have 4 present in classes 2-5.
+
+If you know you will be traveling at any time in the semester, please let me know as soon as you can so you can present in an earlier class.
+
 ## Final Assignment
 
 The final two weeks of class will be devoted to final projects. Use this assignment to delve more deeply into the subject matter in one piece of work. You are welcome to work in pairs or groups. 
@@ -86,8 +92,8 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Week Six: Dec 7, 2021
 
-- Topic: Inclusive Design
-- Technical: User testing / Workshopping final projects
+- Topic: Project Development and Inclusive Design
+- Technical: Working with recorded data / Workshopping final projects 
 
 ### Week Seven: Dec 14, 2021
 
@@ -127,11 +133,12 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - Consider: Moving away from your computer to test with the full body or using an external webcam placed away from you to capture your full body.
 - Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/SAqNM8BLU2Rpxkzu7).
 - Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1mHmUlzDTcd1yItUjNCInyIMZNkhJOCe1MrKNRjGzUoY/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
+- Please bring headphones, some paper, and a pen or pencil to next class for an in-class activity. 
 
 ### Read / Watch
 
-- [Artificial Reality by Myron Krueger, pages 91-99](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/blob/master/readings/artificial_reality_5.pdf)
 - [Closer : performance, technologies, phenomenology, pages 92-98](/readings/closer_2.pdf)
+- [Laurie Anderson & Mohammed el Gharani: Habeas Corpus](https://www.youtube.com/watch?v=kUKLA-W0nDM)
 
 ## Week 2 — Nov 9, 2021
 
@@ -152,7 +159,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Read / Watch
 
-- [Phenomenology of perception by Maurice Merleau-Ponty](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/blob/master/readings/phenomenology_of_perception_2.pdf), pages 92-94 (through "what sees and touches")
+- [Phenomenology of perception by Maurice Merleau-Ponty](/readings/phenomenology_of_perception_2.pdf), pages 92-94 (through "what sees and touches")
 - [Art Talk: An Interview with Nick Cave at the Institute of Contemporary Art/Boston](https://www.youtube.com/watch?v=ndvl8L_a72A)
 
 ## Week 3 — Nov 16, 2021
@@ -163,14 +170,6 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - Kinect in JS (via Kinectron)
 
 ### Class Notes
-
-- Class Example 1 — Kinectron p5.js Key | [Github](/examples/week4/example1_p5_key)
-- Class Example 2 — Kinectron p5.js Depth | [Github](/examples/week4/example2_p5_depth)
-- Class Example 3 — Kinectron p5.js DepthKey | [Github](/examples/week4/example3_p5_depthkey)
-- Class Example 4 — Kinectron p5.js Skeleton | [Github](/examples/week4/example4_p5_skeleton)
-- Class Example 5 — Kinectron Three.js Skeleton Simple | [Github](/examples/week4/example5_3js_skeleton_simple) 
-- Class Example 6 — Kinectron Three.js Skeleton Ribbons | [Github](/examples/week4/example6_3js_skeleton_ribbons) | [Glitch](https://glitch.com/~kinectron-skeleton-threejs)
-- Class Example 7 — Kinectron Three.js DepthKey | [Github](/examples/week4/example7_3js_depthkey) | [Glitch](https://glitch.com/~kinectron-depthkey-3js)
 
 ### Class Links
   
@@ -207,6 +206,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1mHmUlzDTcd1yItUjNCInyIMZNkhJOCe1MrKNRjGzUoY/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
 ### Read / Watch
+- [Here/There: Telepresence, Touch, and Art at the Interface (Introduction) by Kris Paulsen](https://www.academia.edu/27070858/Here_There_Telepresence_Touch_and_Art_at_the_Interface_Introduction_https_mitpress_mit_edu_books_herethere) 
 - [Kit Galloway and Sherrie Rabinowitz (February 10, 1988)](https://www.youtube.com/watch?v=fh02Hg6NWaQ) — Up until the Q&A
 
 ## Week 4 — Nov 23, 2021
@@ -224,7 +224,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 - Create a two-user sketch that:
   - Creates a live connection between two participants
-  - Uses one or more machine learning models to detect all or part of their bodies.
+  - Uses computer vision to detect all or part of their bodies.
   - Includes at least one interaction between the two people.
   - Takes into account how their forms inform the experience. 
 - Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/5XqusV3qTkodPQrRA).
@@ -232,7 +232,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Read / Watch
 
-- Optional [Here/There: Telepresence, Touch, and Art at the Interface (Introduction) by Kris Paulsen](https://www.academia.edu/27070858/Here_There_Telepresence_Touch_and_Art_at_the_Interface_Introduction_https_mitpress_mit_edu_books_herethere) 
+- [Artificial Reality by Myron Krueger, pages 91-99](/readings/artificial_reality_5.pdf)
 
 ## Week 5 — Nov 30, 2021
 
@@ -258,13 +258,14 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 ### Read / Watch
 
 - [The End of Average, Todd Rose, pages 1-9](/readings/end_of_avg_intro.pdf)
+- [LaJuné McMillian at Eyebeam's From the Rupture: Ideas and Actions for the Future]https://www.youtube.com/watch?v=kN5zTe29EiI
 
 ## Week 6 — Dec 7, 2021
 
 ### Topic: Production, Inclusive Design
 
 - Moving from prototype to production: prototyping, testing, inclusion
-- Coding with recorded data
+- Working with recorded data
 
 ### Class Notes
 
