@@ -115,6 +115,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Links
 
+- [Google Slides](https://docs.google.com/presentation/d/1WiGCPHcxWlGuumtOjbRcpTyt95Zih46cSC7d9PYKoWw/edit?usp=sharing)
 - [Movement by Etienne-Jules Marey](https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph005266199)
 - [The Making of Brilliance (1985)](https://www.youtube.com/watch?v=HZY5_ZzRdbk)
 - [Kyle McDonald JS CV Examples](https://kylemcdonald.github.io/cv-examples/) | Some more CV examples Stick to low and medium level for week 1 assignment
