@@ -122,6 +122,8 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Tech Refs
 
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [p5.vscode](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode)
 - [Coding Train 9.12: Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
 - [Coding Train 11.3: The Pixel Array - p5.js Tutorial](https://www.youtube.com/watch?v=nMUMZ5YRxHI)
 - [p5 Local Server](https://github.com/processing/p5.js/wiki/Local-server)
