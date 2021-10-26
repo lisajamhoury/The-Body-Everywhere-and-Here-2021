@@ -124,6 +124,8 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Tech Refs
 
+- [ES6 Way to Clone an Array 🐑](https://www.samanthaming.com/tidbits/35-es6-way-to-clone-an-array/#why-can-t-i-use-to-copy-an-array)
+- [Spread syntax (...)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 - [Coding Train 9.12: Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
 - [Coding Train 11.3: The Pixel Array - p5.js Tutorial](https://www.youtube.com/watch?v=nMUMZ5YRxHI)
 - [p5 Local Server](https://github.com/processing/p5.js/wiki/Local-server)
