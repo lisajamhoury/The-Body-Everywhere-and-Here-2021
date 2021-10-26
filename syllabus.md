@@ -111,7 +111,9 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Notes & Examples
 
-- To come 
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [p5.vscode](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode)
+- [Cat image](https://raw.githubusercontent.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/main/examples/assets/cat.jpg)
 
 ### Class Links
 
@@ -122,8 +124,6 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Tech Refs
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [p5.vscode](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode)
 - [Coding Train 9.12: Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
 - [Coding Train 11.3: The Pixel Array - p5.js Tutorial](https://www.youtube.com/watch?v=nMUMZ5YRxHI)
 - [p5 Local Server](https://github.com/processing/p5.js/wiki/Local-server)
