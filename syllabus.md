@@ -1,4 +1,4 @@
-Week-by-week quick links: [Week 1](#week-1--nov-2-2021) | Week 2 | Week 3
+Week-by-week quick links: [Week 1](#week-1--nov-2-2021) | [Week 2](#week-2--nov-9-2021) | [Week 3](#week-3--nov-16-2021) | [Week 4](#week-4--nov-23-2021) | [Week 5](#week-5--nov-30-2021) | [Week 6](#week-6--dec-7-2021) 
 
 ## Course Description
 
