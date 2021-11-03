@@ -113,6 +113,8 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Notes & Examples
 
+- Example 1 - Frame Differencing | [Github](/examples/week1/1_1_frame_difference) | [p5 web editor](https://editor.p5js.org/lisajamhoury/sketches/xQRUJkKcC)
+- Example 2 - Background Subtraction | [Github](/examples/week1/1_2_bg_subtraction) | [p5 web editor](https://editor.p5js.org/lisajamhoury/sketches/Fb_gF4LzK)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [p5.vscode](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode)
 - [Cat image](https://raw.githubusercontent.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/main/examples/assets/cat.jpg)
