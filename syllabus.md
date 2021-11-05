@@ -162,7 +162,8 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Assignments
 
-- Create a sketch using a machine learning model availble in the browser (like PoseNet or HandPose) that encourages the participant to interact with some part of their body and at least one other object on the screen. As you work consider how noise and latency are affecting your sketch. Work to either mitigate or utilize them.
+- Create a sketch using a machine learning model availble in the browser (like PoseNet or HandPose) that encourages the participant to interact with some part of their body and at least one other object on the screen. Consider how the participant's presence is impacting the sketch. 
+- As you work consider how noise and latency are affecting your sketch. Work to either mitigate or utilize them.
 - Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/5XqusV3qTkodPQrRA).
 - Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1mHmUlzDTcd1yItUjNCInyIMZNkhJOCe1MrKNRjGzUoY/edit?usp=sharing) with your name under week 2. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
