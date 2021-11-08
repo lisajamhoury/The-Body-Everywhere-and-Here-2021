@@ -158,6 +158,8 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Notes
 
+- [tfjs face landmarks documentation](https://github.com/tensorflow/tfjs-models/tree/master/face-landmarks-detection)
+
 ### Class Links
 
 ### Assignments
