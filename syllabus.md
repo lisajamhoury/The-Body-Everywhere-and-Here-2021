@@ -39,7 +39,7 @@ This course will be offered entirely in person. If you need special accomodation
 lisa.jamhoury@nyu.edu
 
 [Office hours link](https://calendar.google.com/calendar/selfsched?sstoken=UUlFdHBUdGtNZlpEfGRlZmF1bHR8NGM3YjcyZWMxYWNkZDc1M2YxMTE5MjFjNWU5ODVkMjY)<br>
-Tuesday 9:15am—11:15am ET
+Friday 9:30am—11:30am ET
 
 ## Support
 
