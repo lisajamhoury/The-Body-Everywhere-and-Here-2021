@@ -164,7 +164,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### More Examples 
 
-— [Yining Shi Examples] — [Posenet / Bodypix](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-pose) | [Handpose / Facemesh](https://github.com/yining1023/machine-learning-for-the-web/tree/master/face-hand)
+- Yining Shi Examples | [Posenet / Bodypix](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-pose) | [Handpose / Facemesh](https://github.com/yining1023/machine-learning-for-the-web/tree/master/face-hand)
 - [Lingdong Huang Mediapipe Demos](https://github.com/LingDong-/handpose-facemesh-demos)
 - [Pose Animator: SVG Characters with Posenet](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
 - [clmtrackr](https://github.com/auduno/clmtrackr) | [Live example from Kyle McDonald](https://kylemcdonald.github.io/cv-examples/FaceTracking/)
