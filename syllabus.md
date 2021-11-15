@@ -234,7 +234,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1mHmUlzDTcd1yItUjNCInyIMZNkhJOCe1MrKNRjGzUoY/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
 ### Read / Watch
-- [Here/There: Telepresence, Touch, and Art at the Interface (Introduction) by Kris Paulsen](https://www.academia.edu/27070858/Here_There_Telepresence_Touch_and_Art_at_the_Interface_Introduction_https_mitpress_mit_edu_books_herethere) 
+- [Here/There: Telepresence, Touch, and Art at the Interface (Introduction) by Kris Paulsen](https://www.academia.edu/27070858/Here_There_Telepresence_Touch_and_Art_at_the_Interface_Introduction_https_mitpress_mit_edu_books_herethere), pages 1-10 
 - [Kit Galloway and Sherrie Rabinowitz (February 10, 1988)](https://www.youtube.com/watch?v=fh02Hg6NWaQ) — Up until the Q&A
 
 ## Week 4 — Nov 23, 2021
