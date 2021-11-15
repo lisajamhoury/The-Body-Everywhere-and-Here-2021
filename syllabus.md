@@ -198,6 +198,8 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 ### Class Notes
 
 ### Class Links
+
+- [HSV to RGB](https://stackoverflow.com/questions/17242144/javascript-convert-hsb-hsv-color-to-rgb-accurately/54024653)
   
 #### General Kinect 
 - [How to pronounce the name of Microsoft's cloud: Azure](https://www.youtube.com/watch?v=AmP11EgEM4g)
