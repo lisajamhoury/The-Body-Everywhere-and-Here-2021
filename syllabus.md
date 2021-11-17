@@ -195,10 +195,19 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - Which came first, the form or the function?
 - Kinect in JS (via Kinectron)
 
-### Class Notes
+### Class Examples
+
+- Example 1 — Key Feed | [Code](examples/week3/3_1_key) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_1_key)
+- Example 2 — Depth Feed | [Code](examples/week3/3_2_depth) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_2_depth)
+- Example 3 — Depth Key Feed | [Code](examples/week3/3_3_depthkey) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_3_depthkey)
+- Example 4 — Skeleton p5 | [Code](examples/week3/3_4_skeleton) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_4_skeleton)
+- Example 5 — Skeleton threejs | [Code](examples/week3/3_5_3js_skeleton_simple) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_5_3js_skeleton_simple)
+- Example 6 — Skeleton threejs | [Code](examples/week3/3_6_3js_skeleton_ribbons) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_6_3js_skeleton_ribbons)
+- Example 7 — Skeleton threejs | [Code](examples/week3/3_7_3js_depthkey) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_7_3js_depthkey)
 
 ### Class Links
 
+- [Google Slides](https://docs.google.com/presentation/d/1RXDmvksfLHhxKYq6NueBt-8_Pp7FV8gLYVtnxC5wzjU/edit?usp=sharing)
 - [HSV to RGB](https://stackoverflow.com/questions/17242144/javascript-convert-hsb-hsv-color-to-rgb-accurately/54024653)
   
 #### General Kinect 
@@ -213,7 +222,8 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - [Kinectron Server Version 0.3.5](https://github.com/kinectron/kinectron/releases/tag/0.3.5)
 - [Kinectron Bootcamp Install by Jake Sherwood](https://jakesherwood.com/blog/body_ewah/kinectron-install)
 - [Coding Train: Kinectron](https://www.youtube.com/watch?v=BV6xK3EOznI)
-- [More Kinectron Examples](https://kinectron.github.io/docs/example-simple-skeleton.html) | Includes [Skeleton Example](https://kinectron.github.io/docs/example-skeleton-images-windows.html) from Elena and Dina's 2019 project! 
+- [More Kinectron Examples](https://kinectron.github.io/docs/example-simple-skeleton.html) | Includes [Skeleton Example](https://kinectron.github.io/docs/example-skeleton-images-windows.html) 
+— [Kinectron Github Repo Examples](https://github.com/kinectron/kinectron/tree/master/examples) | See [Feed Test Azure](https://github.com/kinectron/kinectron/tree/master/examples/azure_examples/p5_examples/feedTest) or [Feed Test Windows V2](https://github.com/kinectron/kinectron/tree/master/examples/windows_examples/p5_examples/feedTest) to see how all feeds work
 
 #### Three.js 
 - [Three.js Introduction](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
