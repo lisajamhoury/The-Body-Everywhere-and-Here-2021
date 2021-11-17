@@ -197,6 +197,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Examples
 
+Important! All of the examples below are hosted on glitch. In order for them to work you will need to add the ip address of the Kinectron app that you want to connect to. Open the code [on glitch here](https://glitch.com/edit/#!/body-ewah-2021). Go to **examples > week3**. For each **sketch.js** file [add your ip address](https://kinectron.github.io/#/api/getting-started?id=_2-create-an-instance-of-kinectron) 
 - Example 1 — Key Feed | [Code](examples/week3/3_1_key) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_1_key)
 - Example 2 — Depth Feed | [Code](examples/week3/3_2_depth) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_2_depth)
 - Example 3 — Depth Key Feed | [Code](examples/week3/3_3_depthkey) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_3_depthkey)
