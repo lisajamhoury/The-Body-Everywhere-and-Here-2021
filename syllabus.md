@@ -205,6 +205,8 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 - Example 5 — Skeleton threejs | [Code](examples/week3/3_5_3js_skeleton_simple) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_5_3js_skeleton_simple)
 - Example 6 — Skeleton threejs | [Code](examples/week3/3_6_3js_skeleton_ribbons) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_6_3js_skeleton_ribbons)
 - Example 7 — Skeleton threejs | [Code](examples/week3/3_7_3js_depthkey) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_7_3js_depthkey)
+- Async Class Example — Three.js Basics with Recorded Kinectron Skeleton | [Video](https://nyu.zoom.us/rec/share/1dvUV4MGan6_loOGNVqCyUbE-tXmCQ3daRs82Piz66S9SKMrOvMkWBZZp3iP4E9V.2HY3vkPX-daTq0-C) | [Github](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/tree/master/examples/week6/ex4_3js_lights_kinect) | [Glitch](https://glitch.com/~kindhearted-jolly-abacus)
+
 
 ### Class Links
 
