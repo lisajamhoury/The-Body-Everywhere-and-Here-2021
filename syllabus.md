@@ -259,15 +259,23 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 
 ### Class Notes
 
+- Example 1 — Mouse Over Peer | [Code](examples/week4/4_1_mouse) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_1_mouse) 
+- Example 2 — Pose Over Peer | [Code](examples/week4/4_2_pose) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_2_pose) 
+- Example 3 — Video Over Peer | [Code](examples/week4/4_3_video) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_3_video) 
+- Example 4 — Frame Difference Over Peer | [Code](examples/week4/4_4_frame_diff) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_4_frame_diff) 
+- Example 5 — Pose Blobs over Peer | [Code](examples/week4/4_5_pose_blobs) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_5_pose_blobs) 
+
 ### Class Links
+
+— [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
+— [See the DreamCube, the immersive spectacle that’s like walking into a video game](https://www.fastcompany.com/90682038/see-the-dreamcube-the-immersive-spectacle-thats-like-walking-into-a-video-game)
 
 ### Assignments
 
 - Create a two-user sketch that:
   - Creates a live connection between two participants
-  - Uses computer vision to detect all or part of their bodies.
+  - Uses computer vision or pose detection.
   - Includes at least one interaction between the two people.
-  - Takes into account how their forms inform the experience. 
 - Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/5XqusV3qTkodPQrRA).
 - Catch up on reading! Make sure you have entered one sentence that you found interesting or provocative from each of the previous three readings in [this Google Doc](https://docs.google.com/document/d/1mHmUlzDTcd1yItUjNCInyIMZNkhJOCe1MrKNRjGzUoY/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
