@@ -268,8 +268,8 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 ### Class Links
 
 - [Whiteboard from class](whiteboard/webRTC_peer_intro.png)
-— [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
-— [See the DreamCube, the immersive spectacle that’s like walking into a video game](https://www.fastcompany.com/90682038/see-the-dreamcube-the-immersive-spectacle-thats-like-walking-into-a-video-game)
+- [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
+- [See the DreamCube, the immersive spectacle that’s like walking into a video game](https://www.fastcompany.com/90682038/see-the-dreamcube-the-immersive-spectacle-thats-like-walking-into-a-video-game)
 
 ### Assignments
 
