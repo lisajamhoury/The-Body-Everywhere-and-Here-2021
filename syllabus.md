@@ -259,11 +259,11 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 
 ### Class Notes
 
-- Example 1 — Mouse Over Peer | [Code](examples/week4/4_1_mouse) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_1_mouse) 
-- Example 2 — Pose Over Peer | [Code](examples/week4/4_2_pose) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_2_pose) 
-- Example 3 — Video Over Peer | [Code](examples/week4/4_3_video) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_3_video) 
-- Example 4 — Frame Difference Over Peer | [Code](examples/week4/4_4_frame_diff) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_4_frame_diff) 
-- Example 5 — Pose Blobs over Peer | [Code](examples/week4/4_5_pose_blobs) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_5_pose_blobs) 
+- Example 1 — Mouse Over Peer | [Code](examples/week4/4_1_mouse) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_1_mouse/index.html) 
+- Example 2 — Pose Over Peer | [Code](examples/week4/4_2_pose) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_2_pose/index.html) 
+- Example 3 — Video Over Peer | [Code](examples/week4/4_3_video) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_3_video/index.html) 
+- Example 4 — Frame Difference Over Peer | [Code](examples/week4/4_4_frame_diff) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_4_frame_diff/index.html) 
+- Example 5 — Pose Blobs over Peer | [Code](examples/week4/4_5_pose_blobs) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_5_pose_blobs/index.html) 
 
 ### Class Links
 
