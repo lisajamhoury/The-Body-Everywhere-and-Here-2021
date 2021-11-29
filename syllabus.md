@@ -304,6 +304,9 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 
 ### Class Links
 
+- [Digital Dance Party by Daniel Jorssen](https://www.instagram.com/p/CASdHnMBRFt/)
+- [Me and My Shadows by Ghislaine Boddington](http://www.bodydataspace.net/projects/meandmyshadow/)
+
 ### Assignments
 
 #### Final Assignment 
