@@ -291,7 +291,12 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 - What do embodied social networks look and feel like? 
 - WebRTC Peer mesh with Posenet, Kinectron doubled
 
-### Class Notes
+### Class Examples 
+
+- Example 1 — Posenet Curves | [Code](examples/week5/5_1_posenet_curves) | [Live preview](https://body-ewah-2021.glitch.me/examples/week5/5_1_posenet_curves/index.html) 
+- Example 2 — Multiple Mouse | [Code](examples/week5/5_2_multiple_mouse) | [Live preview](https://body-ewah-2021.glitch.me/examples/week5/5_2_multiple_mouse/index.html) 
+- Example 3 — Multiple Posenet | [Code](examples/week5/5_3_multiple_pose) | [Live preview](https://body-ewah-2021.glitch.me/examples/week5/5_3_multiple_pose/index.html) 
+- Example 4 — Two Kinectrons | [Code]() | [Live preview]() 
 
 ### Class Links
 
@@ -308,7 +313,6 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 ### Read / Watch
 
 - [The End of Average, Todd Rose, pages 1-9](/readings/end_of_avg_intro.pdf)
-- [LaJuné McMillian at Eyebeam's From the Rupture: Ideas and Actions for the Future]https://www.youtube.com/watch?v=kN5zTe29EiI
 
 ## Week 6 — Dec 7, 2021
 
