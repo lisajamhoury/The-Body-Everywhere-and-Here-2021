@@ -89,7 +89,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Week Five: Nov 30, 2021
 
-- Topic: "Social" Networks, multiples 
+- Topic: Synthesizing — The Body as Interaction Mechanism 
 - Technical: Two Kinects, Peer Mesh 
 
 ### Week Six: Dec 7, 2021
@@ -207,7 +207,6 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 - Example 7 — Skeleton threejs | [Code](examples/week3/3_7_3js_depthkey) | [Live preview](https://body-ewah-2021.glitch.me/examples/week3/3_7_3js_depthkey)
 - Async Class Example — Three.js Basics with Recorded Kinectron Skeleton | [Video](https://nyu.zoom.us/rec/share/1dvUV4MGan6_loOGNVqCyUbE-tXmCQ3daRs82Piz66S9SKMrOvMkWBZZp3iP4E9V.2HY3vkPX-daTq0-C) | [Github](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/tree/master/examples/week6/ex4_3js_lights_kinect) | [Glitch](https://glitch.com/~kindhearted-jolly-abacus)
 
-
 ### Class Links
 
 - [Google Slides](https://docs.google.com/presentation/d/1RXDmvksfLHhxKYq6NueBt-8_Pp7FV8gLYVtnxC5wzjU/edit?usp=sharing)
@@ -286,10 +285,10 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 
 ## Week 5 — Nov 30, 2021
 
-### Topic: "Social" Networks, multiples
+### Topic: Synthesizing — The Body as Interaction Mechanism 
 
-- What do embodied social networks look and feel like? 
-- WebRTC Peer mesh with Posenet, Kinectron doubled
+- What is the role of the artist in an interactive experience? The computer? The participant?
+- Advanced Configurations: WebRTC Peer mesh with Posenet, Kinectron doubled
 
 ### Class Examples 
 
@@ -297,6 +296,11 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 - Example 2 — Multiple Mouse | [Code](examples/week5/5_2_multiple_mouse) | [Live preview](https://body-ewah-2021.glitch.me/examples/week5/5_2_multiple_mouse/index.html) 
 - Example 3 — Multiple Posenet | [Code](examples/week5/5_3_multiple_pose) | [Live preview](https://body-ewah-2021.glitch.me/examples/week5/5_3_multiple_pose/index.html) 
 - Example 4 — Two Kinectrons | [Code]() | [Live preview]() 
+
+### In Class Exercise 
+
+- [Interactive Art Guidelines by Myron Krueger](https://i2.wp.com/itp.nyu.edu/thesis/journal2017/benedetta/wp-content/uploads/sites/14/2017/03/017.jpg)
+- [Google Slides](https://docs.google.com/presentation/d/1BwKSb5rfBlIc3dzjqnxk8nr9rvrTKhVWr1nF4a5O5p0/edit?usp=sharing)
 
 ### Class Links
 
