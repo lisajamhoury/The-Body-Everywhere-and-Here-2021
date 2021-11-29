@@ -26,7 +26,7 @@ const scoreThreshold = 0.5;
 // Use for developing without partner
 // This will mirror one user's pose
 // and will ingnore the pose over peer connection
-const mirror = false;
+const mirror = true;
 
 // Create an array with keypoints ordered correctly to make a shape
 let myOrderedPose = [
