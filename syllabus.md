@@ -295,7 +295,8 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 - Example 1 — Posenet Curves | [Code](examples/week5/5_1_posenet_curves) | [Live preview](https://body-ewah-2021.glitch.me/examples/week5/5_1_posenet_curves/index.html) 
 - Example 2 — Multiple Mouse | [Code](examples/week5/5_2_multiple_mouse) | [Live preview](https://body-ewah-2021.glitch.me/examples/week5/5_2_multiple_mouse/index.html) 
 - Example 3 — Multiple Posenet | [Code](examples/week5/5_3_multiple_pose) | [Live preview](https://body-ewah-2021.glitch.me/examples/week5/5_3_multiple_pose/index.html) 
-- Example 4 — Two Kinectrons | [Code]() | [Live preview]() 
+- Example 4 — Two Kinectrons | [Code](examples/week5/5_4_two_kinect_joints) | [Live preview](https://body-ewah-2021.glitch.me/examples/week5/5_4_two_kinect_joints/index.html) *
+*You need to add two live kinectron addresses for this sketch to work
 
 ### In Class Exercise 
 
@@ -306,6 +307,9 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 
 - [Digital Dance Party by Daniel Jorssen](https://www.instagram.com/p/CASdHnMBRFt/)
 - [Me and My Shadows by Ghislaine Boddington](http://www.bodydataspace.net/projects/meandmyshadow/)
+- [Tips to improve your generative artwork](https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork)
+- [Lodash cloneDeep](https://lodash.com/docs/4.17.15#cloneDeep)
+- [Deep Cloning Objects In JavaScript (And How It Works)](https://alligator.io/js/deep-cloning-JavaScript-objects/)
 
 ### Assignments
 
