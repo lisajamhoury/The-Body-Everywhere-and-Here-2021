@@ -334,12 +334,23 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 
 ### Class Notes
 
+- ["Mismatch: How Inclusion Shapes Design" Kat Holmes](https://mitpress.mit.edu/books/mismatch)
+- [Video: Design for seven billion; design for one - Kat Holmes](https://www.youtube.com/watch?v=vPH1exUrSh8)
+- [Class Exercise Google Slides](https://docs.google.com/presentation/d/1pBzELrq4LYnHXNMQOzHvCxi6vFnryoz261U6lGVEzdA/edit?usp=sharing)
+
+### Class Examples 
+- Class Example 1 — Recording and Replaying Data with Mouse | [Video](https://nyu.zoom.us/rec/share/wGx1iARVcLrgeOC_kFKTYLikcUqyN_RFEOE6RrpQvv8KSkqjWpyD8txPSi6pJIVk.uYYBXwNwzZ331Qzb) ( + [Addendum](https://nyu.zoom.us/rec/share/6rlQTm_34L59gM0wqGOLR3jSPA65GxYz_2fF0B6yFucFe7-WU04Y1_hMeubRu1Wh.Cy_tmmvqXY-Tfo8Q) ) | [Code](examples/week6/6_1_record_mouse) | [Glitch](https://body-ewah-2021.glitch.me/examples/week5/examples/week6/6_1_record_mouse/index.html) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/-w2UgJzNX)
+- Class Example 2 — Recording and Replaying Data with Posenet | [Code](examples/week6/6_2_posenet_recorded) | [Glitch](https://body-ewah-2021.glitch.me/examples/week5/examples/week6/6_1_record_mouse/index.html) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/fjJLDl4UM)
+- Class Example 3 — Three.js Basics with Recorded Kinectron Skeleton | [Video](https://nyu.zoom.us/rec/share/1dvUV4MGan6_loOGNVqCyUbE-tXmCQ3daRs82Piz66S9SKMrOvMkWBZZp3iP4E9V.2HY3vkPX-daTq0-C) | [Code](examples/week6/6_3_3js_lights_kinect) | [Glitch](https://body-ewah-2021.glitch.me/examples/week6/6_3_3js_lights_kinect/index.html)
+
+
 ### Prototyping / Playtesting Questions
 
-— If you have a prototype: How was the experience? How did it make you feel? Did it encourage you to move? How? Was the interaction clear? What did you enjoy about the experience? How could it be improved? Other feedback? 
-— If you don't have a prototype: Present your idea and get feedback. Classmates can provide inspiration, resources, help debugging, etc. 
+- If you have a prototype: How was the experience? How did it make you feel? Did it encourage you to interact? How? Was the interaction clear? What did you enjoy about the experience? How could it be improved? Other feedback? 
+- If you don't have a prototype: Present your idea and get feedback. Classmates can provide inspiration, resources, help debugging, etc. 
 
 ### Assignments
+- [Sign up for a presentation slot ](https://docs.google.com/document/d/1_BhYrq47M38wuT7y4P6RVjpINELEqlrlTKNDrzCGOkg/edit)
 
 #### Final Assignment 
 - Create something that reflects on the ideas we've discussed in class so far this semester. You can continue to work on one of your previous assignments, or create something entirely new. Work alone or with a partner. Your choice!
