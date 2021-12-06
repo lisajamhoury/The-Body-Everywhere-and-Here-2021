@@ -339,8 +339,8 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 - [Class Exercise Google Slides](https://docs.google.com/presentation/d/1pBzELrq4LYnHXNMQOzHvCxi6vFnryoz261U6lGVEzdA/edit?usp=sharing)
 
 ### Class Examples 
-- Class Example 1 — Recording and Replaying Data with Mouse | [Video](https://nyu.zoom.us/rec/share/wGx1iARVcLrgeOC_kFKTYLikcUqyN_RFEOE6RrpQvv8KSkqjWpyD8txPSi6pJIVk.uYYBXwNwzZ331Qzb) ( + [Addendum](https://nyu.zoom.us/rec/share/6rlQTm_34L59gM0wqGOLR3jSPA65GxYz_2fF0B6yFucFe7-WU04Y1_hMeubRu1Wh.Cy_tmmvqXY-Tfo8Q) ) | [Code](examples/week6/6_1_record_mouse) | [Glitch](https://body-ewah-2021.glitch.me/examples/week5/examples/week6/6_1_record_mouse/index.html) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/-w2UgJzNX)
-- Class Example 2 — Recording and Replaying Data with Posenet | [Code](examples/week6/6_2_posenet_recorded) | [Glitch](https://body-ewah-2021.glitch.me/examples/week5/examples/week6/6_1_record_mouse/index.html) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/fjJLDl4UM)
+- Class Example 1 — Recording and Replaying Data with Mouse | [Video](https://nyu.zoom.us/rec/share/wGx1iARVcLrgeOC_kFKTYLikcUqyN_RFEOE6RrpQvv8KSkqjWpyD8txPSi6pJIVk.uYYBXwNwzZ331Qzb) ( + [Addendum](https://nyu.zoom.us/rec/share/6rlQTm_34L59gM0wqGOLR3jSPA65GxYz_2fF0B6yFucFe7-WU04Y1_hMeubRu1Wh.Cy_tmmvqXY-Tfo8Q) ) | [Code](examples/week6/6_1_record_mouse) | [Glitch](https://body-ewah-2021.glitch.me/examples/week6/6_1_record_mouse/index.html) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/-w2UgJzNX)
+- Class Example 2 — Recording and Replaying Data with Posenet | [Code](examples/week6/6_2_posenet_recorded) | [Glitch](https://body-ewah-2021.glitch.me/examples/week6/6_1_record_mouse/index.html) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/fjJLDl4UM)
 - Class Example 3 — Three.js Basics with Recorded Kinectron Skeleton | [Video](https://nyu.zoom.us/rec/share/1dvUV4MGan6_loOGNVqCyUbE-tXmCQ3daRs82Piz66S9SKMrOvMkWBZZp3iP4E9V.2HY3vkPX-daTq0-C) | [Code](examples/week6/6_3_3js_lights_kinect) | [Glitch](https://body-ewah-2021.glitch.me/examples/week6/6_3_3js_lights_kinect/index.html)
 
 
