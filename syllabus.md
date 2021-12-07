@@ -336,12 +336,20 @@ Important! All of the examples below are hosted on glitch. In order for them to 
 
 - ["Mismatch: How Inclusion Shapes Design" Kat Holmes](https://mitpress.mit.edu/books/mismatch)
 - [Video: Design for seven billion; design for one - Kat Holmes](https://www.youtube.com/watch?v=vPH1exUrSh8)
+- Kinectron record documentation — [Azure](https://kinectron.github.io/#/server/azure?id=recording) | [Windows](https://kinectron.github.io/#/server/windows?id=recording)
+- [Kinect Azure native record documentation](https://docs.microsoft.com/en-us/azure/kinect-dk/record-sensor-streams-file)
+- [What Is an MKV File?](https://www.lifewire.com/mkv-file-4135396)
+
+### Class Exercise 
+
 - [Class Exercise Google Slides](https://docs.google.com/presentation/d/1pBzELrq4LYnHXNMQOzHvCxi6vFnryoz261U6lGVEzdA/edit?usp=sharing)
 
 ### Class Examples 
 - Class Example 1 — Recording and Replaying Data with Mouse | [Video](https://nyu.zoom.us/rec/share/wGx1iARVcLrgeOC_kFKTYLikcUqyN_RFEOE6RrpQvv8KSkqjWpyD8txPSi6pJIVk.uYYBXwNwzZ331Qzb) ( + [Addendum](https://nyu.zoom.us/rec/share/6rlQTm_34L59gM0wqGOLR3jSPA65GxYz_2fF0B6yFucFe7-WU04Y1_hMeubRu1Wh.Cy_tmmvqXY-Tfo8Q) ) | [Code](examples/week6/6_1_record_mouse) | [Glitch](https://body-ewah-2021.glitch.me/examples/week6/6_1_record_mouse/index.html) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/-w2UgJzNX)
 - Class Example 2 — Recording and Replaying Data with Posenet | [Code](examples/week6/6_2_posenet_recorded) | [Glitch](https://body-ewah-2021.glitch.me/examples/week6/6_2_posenet_recorded/index.html) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/fjJLDl4UM)
 - Class Example 3 — Three.js Basics with Recorded Kinectron Skeleton | [Video](https://nyu.zoom.us/rec/share/1dvUV4MGan6_loOGNVqCyUbE-tXmCQ3daRs82Piz66S9SKMrOvMkWBZZp3iP4E9V.2HY3vkPX-daTq0-C) | [Code](examples/week6/6_3_3js_lights_kinect) | [Glitch](https://body-ewah-2021.glitch.me/examples/week6/6_3_3js_lights_kinect/index.html)
+- Additional Kinect recorded examples — [Simple Skeleton](https://kinectron.github.io/#/examples/simple-skeleton) | [Skeleton with images](https://kinectron.github.io/#/examples/skeleton-images) | [Two players joints](https://kinectron.github.io/#/examples/multi-player-joints) 
+
 
 
 ### Prototyping / Playtesting Questions
